@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Jotdown
+GenericName=Markdown Editor
+Comment=A simple Markdown editor for simple folk
+Categories=Utility;
+Exec=com.github.dillonfagan.jotdown
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Markdown;Text;Editor;
