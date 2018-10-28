@@ -1,0 +1,7 @@
+# ninja log v5
+0	276	1540734280	com.github.dillonfagan.jotdown@exe/src/Application.c	643dec97357938df
+0	276	1540734280	com.github.dillonfagan.jotdown@exe/src/Widgets/HeaderBar.c	643dec97357938df
+276	589	1540734281	com.github.dillonfagan.jotdown@exe/meson-generated_src_Widgets_HeaderBar.c.o	86c280eb233de3d
+276	592	1540734281	com.github.dillonfagan.jotdown@exe/meson-generated_src_Application.c.o	f7708601aaafbd4a
+592	684	1540734281	com.github.dillonfagan.jotdown	2fe354ed77b6d396
+2	338	0	meson-install	9e677c51c263ad00

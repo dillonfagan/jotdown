@@ -1,0 +1,5 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/com.github.dillonfagan.jotdown
+/usr/share/applications/com.github.dillonfagan.jotdown.desktop
+/usr/share/metainfo/com.github.dillonfagan.jotdown.appdata.xml
